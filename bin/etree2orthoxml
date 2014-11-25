@@ -1,0 +1,5 @@
+#!/home/charles/Dropbox/Academics/Fall_2014/COMP_561/Research/test/bin/python
+# EASY-INSTALL-SCRIPT: 'ete2==2.2.1072','etree2orthoxml'
+__requires__ = 'ete2==2.2.1072'
+import pkg_resources
+pkg_resources.run_script('ete2==2.2.1072', 'etree2orthoxml')
